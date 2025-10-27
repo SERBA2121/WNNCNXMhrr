@@ -14,6 +14,6 @@ hrr - High Refresh Rate, The firmware is designed in such a way that the phone c
 - 0 Mods
 
 ### Notes
-- Play integrity
+- Play integrity failed
 - UW camera dont work
 - If u want animations, update launcher. HOS2 launcher installed by default
